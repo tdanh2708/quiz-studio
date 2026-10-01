@@ -1,0 +1,9 @@
+{
+  "name": "Quiz Studio",
+  "short_name": "Quiz Studio",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed"
+}
